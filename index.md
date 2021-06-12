@@ -1,7 +1,5 @@
 ## Marvel 3-D Platformer 
 
-You can use the [editor on GitHub](https://github.com/fbelcher/CPE471final/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 **Frances Belcher - CPE 471 - Spring 2021 - Christian Eckhardt**
 
 
@@ -9,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/fbelcher/CPE471final/edit/
 
 For my project, I took inspiration from the Marvel movie marathon my roommates and I took on for this quarter. I also had experience with creating a 2-D platformer in a previous class. The goal of the game is to collect the _Infinity stones_ to save the day from Thanos. 
 
-The main character is a colorful dog that you control using the arrow keys. Up and Down move the player forwards and backwards, whereas the left and Right arrow keys rotate the body. To move the camera around in the world, use W/S to move forwards/backwards, A/D to rotate left and right, and I/K to look up or down. 
+The main character is a colorful dog that you control using the arrow keys. Up and Down move the player forwards and backwards, whereas the left and Right arrow keys rotate the body. To move the camera around in the world, use W/S to move forwards/backwards, A/D to rotate left and right, and I/K to look up or down. If you fall off the edge of the platforms, the game will end and the window closes.
 
 In the end, I didn't get as far as I would have liked with the project, but it had a lot of potential, and I found the game design interesting and difficult!
 
@@ -18,7 +16,9 @@ In the end, I didn't get as far as I would have liked with the project, but it h
 
 
 ## Project Links
-- Link to video file: 
-- Link to zip file: 
+- Link to video file: [video demo]
+https://user-images.githubusercontent.com/53445217/121763003-ce2c4600-caed-11eb-9a1c-5bdc3826f318.mp4
+- Link to zip file: [zip][Frances-Belcher-final.zip](https://github.com/fbelcher/CPE471final/files/6641544/Frances-Belcher-final.zip)
+
 
 
