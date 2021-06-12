@@ -16,9 +16,8 @@ In the end, I didn't get as far as I would have liked with the project, but it h
 
 
 ## Project Links
-- Link to video file: [video demo]
-(https://user-images.githubusercontent.com/53445217/121763003-ce2c4600-caed-11eb-9a1c-5bdc3826f318.mp4)
-- Link to zip file: [zip](https://github.com/fbelcher/CPE471final/files/6641544/Frances-Belcher-final.zip)
+- Link to video file: [video demo](https://user-images.githubusercontent.com/53445217/121763095-32e7a080-caee-11eb-862b-7713a550604d.mp4)
+- Link to zip file: [Marvel-Platformer-file](https://github.com/fbelcher/CPE471final/files/6641544/Frances-Belcher-final.zip)
 
 
 
